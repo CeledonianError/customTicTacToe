@@ -1,11 +1,14 @@
 # customTicTacToe
-I made TicTacToe that supports a custom sized board (min. 3, max. 10, this can easily be changed (line 128), but I don't recommend it). Uses tkinter for GUI and expects you to have the fonts Atkinson Hyperlegible (https://brailleinstitute.org/freefont) and Monospace installed (this is easy to change). 
+I made TicTacToe that supports a custom sized board (min. 3, max. 10, this can easily be changed (line 128), but I don't recommend it). Uses tkinter for GUI ~~and expects you to have the fonts Atkinson Hyperlegible (https://brailleinstitute.org/freefont) and Monospace installed (this is easy to change).~~
 
-If you want to change the fonts:
+~~If you want to change the fonts:~~
 
-Line 21 - Monospace
+~~Line 21 - Monospace~~
 
-Lines 23, 72, 138, 140 - Atkinson Hyperlegible
+~~Lines 23, 72, 138, 140 - Atkinson Hyperlegible~~
+
+Apparently it has no issues if you don't have those fonts. Just note that it may look funky if you don't.
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Tic Tac Toe that supports a custom sized board (min. 10, max. 3)
 Everyone knows Tic Tac Toe. This script is Tic Tac Toe, but the board can be changed to be any size (currently set to a max. of 10 due to tkinter lag, but this can easily be changed (ln. 136).
